@@ -2,7 +2,7 @@
 This is a Python application for managing school records. It uses SQLAlchemy to interact with an SQLite database.
 
 # INSTALLATION
-1. Clone the repository:(REPO LINK)[https://github.com/jankimutai/School_Records_Management_System]
+1. Clone the repository:[REPOSITORY LINK](https://github.com/jankimutai/School_Records_Management_System)
 2. Install the required dependencies:
 ``` console
    $ pipenv install
