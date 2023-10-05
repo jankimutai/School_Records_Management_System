@@ -7,7 +7,7 @@ This is a Python application for managing school records. It uses SQLAlchemy to 
 
 
 # Usage
-To run the application, navigate to the project directory and run the following command: "python3 lib/models.py"
+To run the application, navigate to the project directory and run the following command: 'python3 lib/models.py'
 This will start the application and display the main menu:
 
 ![image](https://github.com/jankimutai/School_Records_Management_System/assets/125971278/8f5b41a5-230c-416f-925a-73481ccbc7a2)
