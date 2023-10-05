@@ -4,9 +4,9 @@ This is a Python application for managing school records. It uses SQLAlchemy to 
 # INSTALLATION
 1. Clone the repository:[https://github.com/jankimutai/School_Records_Management_System]
 2. Install the required dependencies:
-    ```console
-      $ pipenv install
-    ```
+     ``` console
+   $ pipenv install
+   ```
 # Usage
 To run the application, navigate to the project directory and run the following command: 
    ``` console
