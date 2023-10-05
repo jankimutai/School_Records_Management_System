@@ -14,7 +14,22 @@ To run the application, navigate to the project directory and run the following 
    ```
 This will start the application and display the main menu:
 
-![image](https://github.com/jankimutai/School_Records_Management_System/assets/125971278/8f5b41a5-230c-416f-925a-73481ccbc7a2)
+```
+========================================================
+    SCHOOL RECORDS MANAGEMENT SYSTEM
+========================================================
+
+    1: CREATE STUDENT RECORD                          
+    2: VIEW STUDENT RECORDS
+    3: UPDATE STUDENT RECORDS
+    4: DELETE STUDENT RECORDS
+    5: ADD NEW CLASS
+    6: VIEW CLASSES
+    7: ADD STAFF
+    8: VIEW STAFF
+    9: EXIT
+========================================================
+```
 
 Use the menu options to create, view, update, or delete student records, add or view classes, and add or view staff members.
 The application uses a while True loop to continuously display the menu and prompt the user for input. Here's how to use the menu options:
