@@ -128,12 +128,12 @@ while True:
             class_exists= session.query(Class).filter_by(id = student.class_id).first()
             staff_exists= session.query(Staff).filter_by(id = student.staff_id).first()
             if class_exists and staff_exists:
-                print('Invalid CLASS ID or STAFF ID entered')
-            else:
+                
                 session.commit()
                 print(f'Student with ID {student_id} enrolled successfully')
-
-            
+            else:
+                print('Invalid CLASS ID or STAFF ID entered')
+                
     elif user_choice == "4":
         # Delete student records
         print("------------------------------------------------")
